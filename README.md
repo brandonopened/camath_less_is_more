@@ -10,3 +10,4 @@ to help:
 6) Select "Pull Request" and we can talk about it! 
 
 Or watch this video: 
+http://somup.com/cYiFnh6c7A
