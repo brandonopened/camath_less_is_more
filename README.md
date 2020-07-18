@@ -11,3 +11,5 @@ to help:
 
 Or watch this video: 
 http://somup.com/cYiFnh6c7A
+
+These standards came from https://casenetwork.imsglobal.org/cftree/doc/1846
